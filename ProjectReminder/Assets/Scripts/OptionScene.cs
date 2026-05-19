@@ -2,23 +2,32 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class OnSliderEnd : MonoBehaviour
+public class OptionScene : MonoBehaviour
 {
-    public GameObject slider;
-
-    public void OnSliderEndEvent()
-    {
-        SwitchScene("MainApp");
-    }
 
     // Start is called before the first frame update
     void Start()
     {
-        SliderAnim.SliderMoved += OnSliderEndEvent;
+        
     }
 
     public void SwitchScene(string sceneName)
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
+    }
+
+    public void SwitchToHome()
+    {
+        SwitchScene("MainApp");
+    }
+
+    public void SwitchToSettings()
+    {
+        SwitchScene("Settings");
+    }
+
+    public void SwitchToAddReminder()
+    {
+        SwitchScene("NewReminder");
     }
 }
