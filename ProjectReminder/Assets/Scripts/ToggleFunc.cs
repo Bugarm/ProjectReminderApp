@@ -5,12 +5,12 @@ using UnityEngine.UI;
 
 public class ToggleFunc : MonoBehaviour
 {
-    private Toggle toggle;
+    public Toggle toggle;
+    private GameObject item = null;
 
     // Start is called before the first frame update
     void Start()
     {
-        toggle = GetComponent<Toggle>();
         if (toggle != null)
         {
             toggle.onValueChanged.AddListener(ToggleDropdown);
@@ -20,6 +20,11 @@ public class ToggleFunc : MonoBehaviour
 
     public void ToggleDropdown(bool isOn)
     {
-       GameObject.Find("item").SetActive(isOn);
+        if(item == null)
+        {
+            item = GameObject.Find("item");
+        }
+
+       item.SetActive(isOn);
     }
 }
