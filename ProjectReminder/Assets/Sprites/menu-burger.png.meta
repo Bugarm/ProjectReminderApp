@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 5f8827ee7adae4146bf7b34d1fa9f821
+guid: fa5fab852bf01c64e90b72cc2da8edc1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3482927987974308657
-    second: GZ4inBrX0AAv4BV_0
+      213: 2344012037550632157
+    second: menu-burger_0
+  - first:
+      213: 8778606994565162218
+    second: menu-burger_1
+  - first:
+      213: 3446244594500822742
+    second: menu-burger_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GZ4inBrX0AAv4BV_0
+      name: menu-burger_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 736
-        height: 791
+        y: 372
+        width: 512
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +133,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fcc7682c2772aafc0800000000000000
-      internalID: -3482927987974308657
+      spriteID: ddce17f678a978020800000000000000
+      internalID: 2344012037550632157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-burger_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 512
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4e0ddec80e3d970800000000000000
+      internalID: 8778606994565162218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-burger_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 512
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6e450233583df20800000000000000
+      internalID: 3446244594500822742
       vertices: []
       indices: 
       edges: []
@@ -144,7 +192,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GZ4inBrX0AAv4BV_0: -3482927987974308657
+      menu-burger_0: 2344012037550632157
+      menu-burger_1: 8778606994565162218
+      menu-burger_2: 3446244594500822742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
