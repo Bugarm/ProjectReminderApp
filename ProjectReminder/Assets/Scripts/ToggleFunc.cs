@@ -22,7 +22,7 @@ public class ToggleFunc : MonoBehaviour
     {
         if(item == null)
         {
-            item = GameObject.Find("item");
+            item = GameObject.Find("Item");
         }
 
        item.SetActive(isOn);
