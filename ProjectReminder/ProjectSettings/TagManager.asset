@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Head
+  - Body
+  - Face
+  - Eye
+  - Grab
   layers:
   - Default
   - TransparentFX
