@@ -10,6 +10,8 @@ public class ToggleFunc : MonoBehaviour
     // Start is called before the first frame update
     private void Start()
     {
+        ToggleDropdown(toggle.isOn); // Set initial state based on toggle
+
         if (toggle != null)
         {
             toggle.onValueChanged.AddListener(ToggleDropdown);
