@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cool_Shutter_Shades_PNG_Clipart_Image_0: 878750272540684034
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

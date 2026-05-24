@@ -335,7 +335,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slice-of-pizza-clipart_0: 3547666912057931541
+      slice-of-pizza-clipart_1: 8335481327784701709
+      slice-of-pizza-clipart_2: -2435515589782443541
+      slice-of-pizza-clipart_3: -4144611907373455117
+      slice-of-pizza-clipart_4: -2008684793461146284
+      slice-of-pizza-clipart_5: 8540312753416056943
+      slice-of-pizza-clipart_6: -4388183524452984933
+      slice-of-pizza-clipart_7: 486546320294318439
+      slice-of-pizza-clipart_8: -7314273795149273703
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
