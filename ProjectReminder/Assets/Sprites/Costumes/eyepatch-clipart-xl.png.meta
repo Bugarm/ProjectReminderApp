@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      eyepatch-clipart-xl_0: -8102005374268295282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
