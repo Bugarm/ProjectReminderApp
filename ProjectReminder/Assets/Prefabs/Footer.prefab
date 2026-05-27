@@ -1037,7 +1037,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 4822484052240332143}
         m_TargetAssemblyTypeName: OptionScene, Assembly-CSharp
-        m_MethodName: SwitchToCustomizeMaple
+        m_MethodName: SwitchToProfile
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

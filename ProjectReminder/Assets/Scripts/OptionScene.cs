@@ -17,9 +17,9 @@ public class OptionScene : MonoBehaviour
         SwitchScene("Settings");
     }
     
-    public void SwitchToCustomizeMaple()
+    public void SwitchToProfile()
     {
-        SwitchScene("CustomizeMaple2");
+        SwitchScene("Profile");
     }
 
     public void SwitchToAddReminder()
