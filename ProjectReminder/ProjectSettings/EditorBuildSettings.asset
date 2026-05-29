@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainApp.unity
-    guid: 860a5887e1696a942b8f83ead2a60120
-  - enabled: 1
     path: Assets/Scenes/StartScene.unity
     guid: 107c1ad430bb9c24fa32126b967c1e97
+  - enabled: 1
+    path: Assets/Scenes/MainApp.unity
+    guid: 860a5887e1696a942b8f83ead2a60120
   - enabled: 1
     path: Assets/Scenes/NewReminder.unity
     guid: da73d8c3c28d9144cbe96922296eaf47
