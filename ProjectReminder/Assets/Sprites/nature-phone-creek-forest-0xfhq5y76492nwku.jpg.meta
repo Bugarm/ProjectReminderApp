@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      nature-phone-creek-forest-0xfhq5y76492nwku_0: -8570092333040364290
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

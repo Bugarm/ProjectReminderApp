@@ -26,5 +26,4 @@ public class OptionScene : MonoBehaviour
     {
         SwitchScene("NewReminder");
     }
-
 }
